@@ -1,0 +1,16 @@
+{
+  "toplama_tarihi": "2026-10-25",
+  "kaynak": "OpenStreetMap (ODbL) - OSMnx",
+  "bolgeler": [
+    "Şehzadeler, Manisa",
+    "Yunusemre, Manisa"
+  ],
+  "dugum_sayisi": 11152,
+  "kenar_sayisi": 16429,
+  "yogunluk": 0.0002642253906753092,
+  "bilesen_sayisi": 1,
+  "en_buyuk_bilesen_dugum": 11152,
+  "ortalama_derece": 2.946377331420373,
+  "toplam_yol_uzunlugu_km": 2209.8199990328276,
+  "seed": 42
+}
